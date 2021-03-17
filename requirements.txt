@@ -1,0 +1,2 @@
+dwave-cloud-client>=0.8.0
+numpy>=1.20.0
